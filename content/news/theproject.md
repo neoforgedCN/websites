@@ -1,59 +1,46 @@
 ---
-title: "What is happening?"
+title: "发生啥了？"
 date: 2023-07-13T10:50:37-04:00
 draft: false
 categories:
 - News
 author: cpw
 summary: |
-    As of July 12th 2023, the discord formerly known as "Forgecord" was rebranded to a new project -
-    NeoForged. Simultaneously, the Neoforged github organization forked the original Minecraft Forge
-    project. This post discusses in detail the reasons behind that, from the point of view of cpw -
-    one of the people who triggered the takeover.
+    截至2023年7月12日，之前叫"Forgecord"的Discord服务器正式改名NeoForged. 同时地, Neoforged 的 Github 组织分
+    支了原本的 Minecraft Forge 项目. 这个帖子分析了背后的原因, 从 cpw 的角度看 -
+    正是他启动了这个“takeover”.
 description: |
-    As of July 12th 2023, the discord formerly known as "Forgecord" was rebranded to a new project -
-    NeoForged. Simultaneously, the Neoforged github organization forked the original Minecraft Forge
-    project. This post discusses in detail the reasons behind that, from the point of view of cpw -
-    one of the people who triggered the takeover.
+    截至2023年7月12日，之前叫"Forgecord"的Discord服务器正式改名NeoForged. 同时地, Neoforged 的 Github 组织分
+    支了原本的 Minecraft Forge 项目. 这个帖子分析了背后的原因, 从 cpw 的角度看 -
+    正是他启动了这个“takeover”.
 ---
-## What has happened here?
+## 发生啥了？
 
-As of July 12th 2023, the discord formerly known as "Forgecord" was rebranded to a new project - NeoForged.
+截至2023年7月12日，之前叫"Forgecord"的Discord服务器正式改名NeoForged. 
 
-NeoForged is a fork of MinecraftForge. Almost all of the original team has joined the new team, with one 
-obvious exception, LexManos (hereby referred to as Lex).
+NeoForged 是一个 MinecraftForge 分支. 几乎所有之前团队的成员加入了新的团队，除了一个明显的例外———— LexManos (下称为Lex)。
 
-This news post will attempt to explain the circumstances leading to this drastic action. It presents the 
-perspective of the new team however, and specifically, my (cpw) perspective and motivations.
+这个文章会尝试导致这个突然改变的原因，它以新的团队成员视角阐释。尤其特别需要说明cpw的角度和动机。
 
-## Why did this happen?
+## 为什么会这样？
 
-Firstly, I want to be clear. Attributing this to a single event is to attribute death by a thousand cuts to a
-single cut.
+首先，我（cpw）需要清楚地说明，这不仅仅是一个简单的单独的事件，而是许许多多事件叠加的结果。（译者注：此处为意译。）
 
-After the latest difficulties in the Minecraft Forge discord, I wanted to understand why Curle felt she needed
-to resign from the position Lex put her in - namely, leader of the project. She had done an amazing job of
-organizing the team prior to the promotion to leader, and it was surprising to me that she felt the need to
-leave so shortly after. The discussion with her opened my eyes to the fact that there had been ongoing 
-difficulties with the team she had spent so much time to build, and Lex was the root of the problem.
+在最新 Minecraft Forge 的Discord事件发生后我想, 我想了解 Curle 为什么离开了团队，正是 Lex 将她放到了这个岗位————团队领队。
+她在被提拔为领队之前就是一个杰出的引领者，她在被提拔后的迅速的离开也让我感到很意外。和她的沟通让我恍然大悟————我们话费了大量时间精力
+构建的团队出现了障碍，而正是Lex是这个障碍的导致者。
 
-I want to be clear, Lex has been a problem in the modding community for _many_, _many_ years. Almost every 
-veteran minecraft modder has had a negative interaction with him over the past 12 years. I have, when able to,
-tried to steer people to not abandon Forge just because of Lex - defending him in many a private
-conversation with a frustrated modder who'd just been called a "Cunt" for 1,000th time by Lex, or banned from 
-our online spaces for a trivial transgression like discussing Fabric or coremods.
+我想说清楚，Lex是模组社区很多很多年的问题了。几乎所有老的模组开发者12年来都和他有过不愉快的精力。我曾经，并且曾经能够说服大家不要
+因为Lex放弃Forge，当Lex把一个沮丧的模组开发者成叫1000次“Cunt”，或者因为讨论其它模组平台（比如Fabric或coremods）而从网络平台封禁。
 
-In evaluating the situation I was in, it quickly became clear I could take one of three actions:
-1. Do nothing. If I did nothing, I believe we would be watching the slow disintegration of the Forge project. 
-This is why we recruited Curle in the first place - to try and help build a useful team, that would enable Lex to 
-step back from the limelight and community management aspects. Her departure would cement that the Forge team
-was too toxic to continue to function in a viable capacity, in my opinion. We would have seen more public 
-disputes and abuse, with more modders and community leaders becoming increasingly frustrated.
-2. Babysit Lex. In effect, this is what I have been doing, to a more or lesser extent, for the past 10 years. He 
-would not see it that way, but I have been defending Lex to all comers for many many years. I truly thought that
-if he could stop being so toxic online, we would become successful.
-3. Do what we have done - fork the project and start afresh. 
+分析了我曾经所处的形势，很清楚我能做以下行动：
+1. 啥都不做。如果我啥都不做，Forge项目只会慢慢分崩离析。这就是为什么当初Curle离开————尝试帮助和构建一个有用的团队，从而使Lex从步出大众视野和社区管理。
+我认为，正是她的离开说明了Forge团队曾太过负能量（原文为“Toxic”）以至于无法正常运转。我们就会看到更多社区争端和歪曲（原文为“abuse”），更多的模组开发者和
+社区管理者将会越来越沮丧。
+2. 照顾Lex的感情. 其实这就是我近10年一直做的，但是他并不这么看待，多年来我一直为Lex辩护。我真心以为他会不再这么负能量，并且成为成功的人。
+3. 做我们现在做的 - 分支项目并重新开始. 
 
+注意！因为个人身体状况和精神状况的原因。
 Note that due to personal physical and mental health issues, I was not well enough to continue with 2 and
 have rather withdrawn from the community - effectively 1 - because I needed to preserve my health. Lex has argued
 repeatedly that I had the power to rein him in, but that's an accident of history and not something that I believe
